@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "763883764636",
+    "project_id": "thuchanhrealtimedatabase",
+    "storage_bucket": "thuchanhrealtimedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763883764636:android:6bf4ab74c3dde9f6236659",
+        "android_client_info": {
+          "package_name": "com.example.thuchanhduan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763883764636-44ho3b8ljg4sistn2hposg90bpnfmft4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thuchanhduan",
+            "certificate_hash": "c51125608848669b179ee510754c74f4902050a5"
+          }
+        },
+        {
+          "client_id": "763883764636-plvisibj3hojk8tmttjpvvovfbr9hpf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfisDiHDx5edX_y5MPHFUYyifMUl4KrYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763883764636-plvisibj3hojk8tmttjpvvovfbr9hpf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
